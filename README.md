@@ -158,10 +158,9 @@ App runs at:
 
 ## 📸 Screenshots
 
-> 💡 Add screenshots here (Home, Cart, Checkout, Product Page)
-
-Example:
 ![home page](image.png)
+
+![food page](image-1.png)
 
 ---
 
