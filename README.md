@@ -161,11 +161,7 @@ App runs at:
 > 💡 Add screenshots here (Home, Cart, Checkout, Product Page)
 
 Example:
-
-```md id="df09gn"
-![Home Page](./screenshots/home.png)
-![Cart Page](./screenshots/cart.png)
-```
+![home page](image.png)
 
 ---
 
